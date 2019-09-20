@@ -1,29 +1,19 @@
-# Foobar
+# Objective
 
-Foobar is a Python library for dealing with word pluralization.
+This is a program which convert natural number to roman number.it is writtn for demo purpose only.it is built on Anular Latest version(8.0.3)
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+.This program needs node package manager
 
-```bash
-pip install foobar
-```
+run npm install
 
-## Usage
+## run program 
 
-```python
-import foobar
+run ng serve
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+## test program
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+run ng test
 
-Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
